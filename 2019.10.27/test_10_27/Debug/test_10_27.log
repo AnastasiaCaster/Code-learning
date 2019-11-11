@@ -1,0 +1,4 @@
+﻿  3.c
+2.obj : error LNK2005: _main 已经在 1.obj 中定义
+3.obj : error LNK2005: _main 已经在 1.obj 中定义
+D:\Code\Bitstudy\2019.10.27\test_10_27\Debug\test_10_27.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
